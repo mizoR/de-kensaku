@@ -1,8 +1,3 @@
 # de-kensaku
 
-```sh
-$ de-kensaku Ubuntu こわくない
-┏━━━━━━━━━━━━━━━━━━━┳━━━━━┓
-┃ Ubuntu こわくない ┃ 検索┃
-┗━━━━━━━━━━━━━━━━━━━┻━━━━━┛
-```
+![sample.png](./images/sample.png)
